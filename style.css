@@ -1,0 +1,80 @@
+body{
+    text-align:center;
+    background-image:linear-gradient(cornsilk,firebrick);
+    background-repeat:no-repeat;
+}
+#ttracketimage{
+    width:200pxpx;
+    height:200px;
+    border-radius:15%;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 60px;
+    margin:25px auto;
+}
+.liine {
+    height: 6px;
+    background-color: #000;
+    width: 250px;
+    margin:25px auto;
+}
+.liiine {
+    height: 6px;
+    background-color: #000;
+    width: 260px;
+    margin:25px auto;
+}
+.liiiine {
+    height: 6px;
+    background-color: #000;
+    width: 260px;
+    margin:25px auto;}  
+.liiiiine {
+    height: 6px;
+    background-color: #000;
+    width: 260px;
+    margin:25px auto;}
+h1{
+    text-shadow:4px 4px fuchsia;
+    color: darkmagenta;
+    font-size:25px;
+    font-family:cursive;
+}
+#bla{
+    margin-top:275px;
+    background-color:aqua;
+}
+.menu{
+    list-style:none;
+    color: black;
+    font-family:cursive;
+    float:center;
+    cursor:pointer;
+}
+.link{
+    display:inline;
+    color: black;
+}
+#Name_of_my_Hobby{
+    font-family: 'Dosis', sans-serif;    
+}
+.link:hover{
+    background-color:red;
+}
+html{
+    scroll-behavior: smooth;
+}
+#p{
+    font-size:25px;
+    font-family:fantasy;
+}
+#IMG{
+    transform: transform .2s;
+    border: 10px solid #AAAAAA;
+    height: 300px;
+}
+IMG:hover {
+    transform: scale(0.9);
+}
